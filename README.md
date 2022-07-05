@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ben-tyler
-- 👀 I’m interested in distributed systems, cryptography
 - 🌱 I’m currently learning lisp
 - 📫 How to reach me email.ben.tyler@gmail.com
 
